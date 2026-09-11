@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    
+}
+body h2 {
+    color: blueviolet;
+    padding: 10px;
+
+}
+body h1 {
+    color: blueviolet;
+    padding: 10px;
+
+}
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px 20px;
+     background-color:rgb(225, 203, 245);
+     color :blueviolet;
+}
+.left-header{
+    display: flex;
+}
+
+.nav {
+    display: flex;
+    gap: 25px;
+    margin-left: auto;
+}
+
+.nav a {
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: rgb(225, 203, 245);
+}
+form{
+    color: rgb(251, 135, 154);
+}
